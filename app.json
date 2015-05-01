@@ -1,0 +1,7 @@
+{
+  "name": "Office supplies manager",
+  "description": "Office supplies manager in Backbone and React",
+  "repository": "https://github.com/anaerobeth/supplies",
+  "logo": "",
+  "keywords": ["node", "backbone", "react"]
+}

@@ -1,7 +1,7 @@
 task-manager-react
 ==================
 
-A task manager demo using React and Backbone.
+An app to manage office supplies using React and Backbone.
 
 ### Instructions
 

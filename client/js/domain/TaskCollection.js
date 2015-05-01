@@ -24,17 +24,6 @@ var TaskCollection = Backbone.Collection.extend({
             task.set('status', 0);
             task.save();
         });
-    },
-
-    createList: function() {
-        var selected = _.filter(this.models, function(task) {
-            return task.get('status') === 2;
-        });
-
-        _.forEach(selected, function(task) {
-          return
-            <div>FOO</div>;
-        });
     }
 });
 
